@@ -36,5 +36,5 @@ So the main working principle of ESP8266 is The ESP8266 can be controlled from y
 
 3.U4CSE16047(Padmavathi) - Worked on Rain module interfacing, connecting the rain module sensor to ESP8266, fixing flaws in the system, observed how the rain module sensor works, connected circuit ESP8266 along with the sensor(Rain detecting).
 
-4. U4CSE16064(Lavanya) - Worked on Client Server Model of the system, tried to implement but has few flaws, worked on the working priciple of the Temperature and humidity and Rain detecting system and worked on the flaws in the whole system. 
+4.U4CSE16064(Lavanya) - Worked on Client Server Model of the system, tried to implement but has few flaws, worked on the working priciple of the Temperature and humidity and Rain detecting system and worked on the flaws in the whole system. 
 
