@@ -32,7 +32,7 @@ So the main working principle of ESP8266 is The ESP8266 can be controlled from y
 ### Individual Contributions:
 1.U4CSE16230(Mounika)- Worked on DHT11 humidity and temperature interfacing, getting the libraries and fixing the flaws in the system and observed how the sensor detects the values from atmosphere(using thermistor and detecting digital pin), connected circuit ESP8266 along with the sensor(Temperature and humidity detecting).
 
-2.U4CSE16035(Harika) - Worked on Thingspeak server and learned how to take the values from ESP826 and display as a graph in Thingspeak website using API's and connected circuit ESP8266 along with the sensor(Temperature and humidity detecting).
+2.U4CSE16035(Harika) - Worked on Thingspeak server and learned how to take the values from ESP8266 and display as a graph in Thingspeak website using API's and connected circuit ESP8266 along with the sensor(Temperature and humidity detecting).
 
 3.U4CSE16047(Padmavathi) - Worked on Rain module interfacing, connecting the rain module sensor to ESP8266, fixing flaws in the system, observed how the rain module sensor works, connected circuit ESP8266 along with the sensor(Rain detecting).
 
